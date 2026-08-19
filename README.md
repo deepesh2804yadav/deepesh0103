@@ -51,7 +51,7 @@ Source (project brief): [Google Drive extract](https://drive.google.com/file/d/1
 | --- | --- |
 | GitHub Repository | https://github.com/deepesh2804yadav/deepesh0103 |
 | Research paper | https://github.com/deepesh2804yadav/deepesh0103/blob/main/docs/research_paper.md |
-| Deployed Streamlit app | Deploy from [share.streamlit.io/deploy](https://share.streamlit.io/deploy) using repo `deepesh2804yadav/deepesh0103`, branch `main`, file `streamlit_app.py` |
+| Deployed Streamlit app | https://deepesh0103-eyfv25shiquxssrps5v8pf.streamlit.app/ |
 | Project feedback video | Record 5–8 min of **you** walking through the dashboard (Loom or unlisted YouTube) |
 
 Details: [docs/SUBMISSION.md](docs/SUBMISSION.md).
